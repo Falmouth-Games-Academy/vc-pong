@@ -18,6 +18,4 @@ Pair program on two machines
 
 Sync the code from the two local machines onto GitHub
 
-sdfrsdgsg
-sdgsdfsd
-sefsdfcdsfsfdsfdsfvdsvs
+This is a bad merge.
