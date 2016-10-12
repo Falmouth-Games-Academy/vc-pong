@@ -17,3 +17,7 @@ Pair program on two machines
 ## Step 3
 
 Sync the code from the two local machines onto GitHub
+
+sdfrsdgsg
+sdgsdfsd
+sefsdfcdsfsfdsfdsfvdsvs
